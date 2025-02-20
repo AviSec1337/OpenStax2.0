@@ -2,7 +2,6 @@
 require '../db.php';
 session_start();
 
-// Handle login
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = trim($_POST['email']);
     $password = trim($_POST['password']);
