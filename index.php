@@ -20,6 +20,7 @@
                 <ion-icon name="desktop-outline" class="text-3xl"></ion-icon>
                 <span>OpenStax</span>
             </a>
+            <!-- Navigation Bar -->
             <nav>
                 <a href="aboutus.php" class="mx-4 hover:text-gray-200">About Us</a>
                 <a href="services.php" class="mx-4 hover:text-gray-200">Services</a>
