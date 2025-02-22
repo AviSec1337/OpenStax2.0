@@ -42,7 +42,7 @@
             </div>
         </section>
 
-        <!-- Why Choose Us Section -->
+        <!-- Why Choose Us Section(About Us)-->
         <section class="py-16 bg-blue-100">
             <div class="container mx-auto px-4">
                 <h2 class="text-3xl font-bold text-center mb-8">Why Choose Us?</h2>
