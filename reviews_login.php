@@ -1,3 +1,4 @@
+<!-- This works with logging in seperately either the end-users can even watch the reviews from the user dashboard too. -->
 <?php
 require 'db.php';
 session_start();
