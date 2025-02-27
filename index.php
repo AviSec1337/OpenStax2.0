@@ -80,7 +80,7 @@
             </div>
         </div>
     </section>
-
+<!-- Features section ends here -->
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-6">
         <div class="container mx-auto text-center">
