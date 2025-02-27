@@ -61,6 +61,7 @@ $reviews = $conn->query($sqlReviews);
                 <ion-icon name="desktop-outline" class="text-3xl"></ion-icon>
                 <span>OpenStax</span>
             </a>
+<!-- Navigation Bar -->
             <nav>
                 <a href="index.php" class="mx-4 hover:text-gray-200">Home</a>
                 <a href="aboutus.php" class="mx-4 hover:text-gray-200">About Us</a>
