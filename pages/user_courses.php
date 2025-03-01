@@ -60,7 +60,7 @@ $courses = $stmt->get_result();
         <!-- Sidebar -->
         <div class="w-64 bg-gray-800 text-white h-screen">
             <div class="p-4 text-xl font-bold text-center">User Dashboard</div>
-            <nav class="mt-4">
+            <nav class="mt-4">(nav bar)
                 <a href="user_dashboard.php" class="block py-2 px-4 hover:bg-gray-700">Dashboard</a>
                 <a href="user_resources.php" class="block py-2 px-4 hover:bg-gray-700">Resources</a>
                 <!-- <a href="user_courses.php" class="block py-2 px-4 bg-gray-700">Courses</a> -->
