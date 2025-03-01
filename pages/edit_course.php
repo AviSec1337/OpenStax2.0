@@ -70,6 +70,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <?php if (isset($success)): ?>
             <div class="bg-green-100 text-green-700 px-4 py-2 rounded mb-4"><?php echo $success; ?></div>
         <?php endif; ?>
+<!-- form --->
         <form action="edit_course.php?id=<?php echo $courseId; ?>" method="POST">
             <div class="mb-4">
                 <label for="course_name" class="block text-gray-700 font-bold mb-2">Course Name</label>
