@@ -8,7 +8,7 @@ if (!isset($_SESSION['admin_id'])) {
     exit;
 }
 
-// Handle approval or denial of permissions
+// Handle approval or denial of permissions(resources that are send by users to admin)
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $permissionId = $_POST['permission_id'];
     $action = $_POST['action'];
